@@ -4,7 +4,7 @@ Um _repositorio teste_ para criação de perfil e outros afins exclusivamente al
 Clique aqui para ser [redirecionado](newFileLink.txt), enquanto isso, vamos continuar nossos testes de texto no Markdown?
 
 Primeiro teste:
- `ola só, onde eu posso escrever meus códigono em um formato quem lembra um código... 
+ `Geralmente esse tipo de efeito de texto é utilizado para destacar uma linha de codigo, segue o exemplo a baixo.
  print("Hello world")`
 #
  Segundo:
