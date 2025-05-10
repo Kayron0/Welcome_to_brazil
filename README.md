@@ -1,10 +1,10 @@
 ## Bem vindos ao meu GitHub, meu nome e Everton Mateus.
-Um _repositorio teste_ para criação de perfil e outros afins exclusivamente aleatória.
+Um _repositorio teste_ para criação de perfil e outros afins exclusivamente aleatório.
 #
-Clique aqui para ser [redirecionado](newFileLink.txt) enquanto isso vamos continuar nossos testes de texto no Markdown?
+Clique aqui para ser [redirecionado](newFileLink.txt), enquanto isso, vamos continuar nossos testes de texto no Markdown?
 
 Primeiro teste:
- `ola só, onde eu posso esceever meu código...
+ `ola só, onde eu posso escrever meus códigono em um formato quem lembra um código... 
  print("Hello world")`
 #
  Segundo:
