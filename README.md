@@ -9,5 +9,5 @@ Primeiro teste:
 #
  Segundo:
  Caixa de pergunta!?
- [x] Sim
- [] Não
+ - [ ] Sim
+ - [ ] Não
